@@ -1,11 +1,11 @@
-<h1 align="center">Hi there! I'm Ayasha 💻😼</h1>
-<p align="center">Front-End Developer · CS Student at UGM · Always curious ✨</p>
+<h1 align="left">💻 Hi there! I'm Ayasha Rahmadinni 😼</h1>
+<p align="left">Front-End Developer · CS Student at UGM · Always curious ✨</p>
 
 ---
 
 ### 👩🏻‍💻 About Me
 
-HIII! I'm Aya, a second-year Computer Science student at Universitas Gadjah Mada and a front-end developer passionate about building clean and responsive interfaces. I love learning modern tech and exploring ways to bring ideas to life through code.
+As the title said, I'm Ayasha R. (or Aya for short), a second-year Computer Science student at Universitas Gadjah Mada and a front-end developer passionate about building clean and responsive interfaces. I love learning modern tech and exploring ways to bring ideas to life through code.
 
 - 🔭 Currently working with **Next.js**, **TypeScript**, and **Tailwind CSS**
 - 💡 Believer in clean code, meaningful projects, and teamwork!
