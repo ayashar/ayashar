@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi there! I'm Ayasha 💻😼</h1>
+<p align="center">Front-End Developer · CS Student at UGM · Always curious ✨</p>
 
-<!--
-**ayashar/ayashar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👩🏻‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HIII! I'm Aya, a second-year Computer Science student at Universitas Gadjah Mada and a front-end developer passionate about building clean and responsive interfaces. I love learning modern tech and exploring ways to bring ideas to life through code.
+
+- 🔭 Currently working with **Next.js**, **TypeScript**, and **Tailwind CSS**
+- 💡 Believer in clean code, meaningful projects, and teamwork!
+- 🎨 Sometimes I obsess over pixel-perfect layouts (in a good way 😆)
+- 💜 Fun fact, a really really big fan of purple and cats 🐱
+
+---
+
+### 🛠️ Tech Stack
+
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+
+---
+
+### 💌 Let's Connect
+
+- 🌐 [ayasha.verce;.app](https://ayashar.vercel.app)
+- 💼 [LinkedIn](https://linkedin.com/in/ayasharahmadinni/)
+- 📫 Reach me at: **aayasharn@gmail.com**
+
+---
+
+<p align="center">✨ Thanks for stopping by! Have a lovely day 💜</p>
