@@ -27,7 +27,7 @@ As the title said, I'm Ayasha R. (or Aya for short), a second-year Computer Scie
 
 ### 💌 Let's Connect
 
-- 🌐 [ayasha.verce;.app](https://ayashar.vercel.app)
+- 🌐 [ayashar.verce;.app](https://ayashar.vercel.app)
 - 💼 [LinkedIn](https://linkedin.com/in/ayasharahmadinni/)
 - 📫 Reach me at: **aayasharn@gmail.com**
 
